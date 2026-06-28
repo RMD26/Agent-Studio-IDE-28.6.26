@@ -1,5 +1,5 @@
 {
-  "name": "agentic-studio-ide",
+  "name": "agentic-build-engine-v2",
   "workspaces": ["frontend", "backend"], 
   "scripts": {
     "dev-frontend": "npm run dev --prefix frontend",
