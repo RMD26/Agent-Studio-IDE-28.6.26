@@ -1,5 +1,5 @@
 {
-  "name": "agentic-studio-ide-frontend",
+  "name": "agentic-build-engine-v2-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,6 +11,7 @@
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
+    "zustand": "latest",
     "lucide-react": "latest"
   },
   "devDependencies": {
